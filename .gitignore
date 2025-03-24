@@ -20,3 +20,5 @@ airflow/logs/
 
 # MLFlow artifacts
 mlruns/
+Miniconda3-latest-*.sh
+mlops_env/
