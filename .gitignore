@@ -1,4 +1,22 @@
-*.pyc
+# Virtual environments
+mlops_env/
 __pycache__/
-venv/
+
+# Installers
+Miniconda3-latest-*.sh
+
+# Compiled libraries and binaries
+*.dylib
+*.so
+*.exe
+*.bin
+
+# Logs and cache
+*.log
+airflow/logs/
+
+# System
+.DS_Store
+
+# MLFlow artifacts
 mlruns/
