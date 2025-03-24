@@ -3,7 +3,7 @@
 L'idée des ateliers est de commencer à utiliser certains outils qui peuvent être d'utilité pour faire du MLOps.
 
 
-             --------ENGLISH VERSION-----------
+   --------ENGLISH VERSION-----------
 # MLOps for Clinical Trials — IMT Atlantique Workshop Project
 
 This project was developed as part of the MLOps workshops held at IMT Atlantique during the Intersemester 2025. The goal is to explore the integration of modern MLOps tools for managing machine learning workflows.
