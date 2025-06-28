@@ -8,6 +8,13 @@ L'idée des ateliers est de commencer à utiliser certains outils qui peuvent ê
 
 This project was developed as part of the MLOps workshops held at IMT Atlantique during the Intersemester 2025. The goal is to explore the integration of modern MLOps tools for managing machine learning workflows.
 
+## DEMO
+![Basic MLOps Project Cycle](images/cycle_de_base.png)
+*Lifecycle of an MLOps project*
+
+![Param Grid Search](images/param_grid_search.png)
+*Example visualization of a hyperparameter grid search*
+
 -------------------------
 ##  Project Objectives
 
